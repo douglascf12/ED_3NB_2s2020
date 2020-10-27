@@ -130,6 +130,4 @@ public class ListaEncadeada {
         return buscaLinearR2(temp.getProx(), x);
     }
     
-    
-    
 }
